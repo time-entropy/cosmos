@@ -1,4 +1,4 @@
-A　Quantum-Elastic　Spacetime Framework
+# A Quantum-Elastic Spacetime Framework
 
 This quantized elastic spacetime model, providing a definition of time based on the time-entropy mapping and demonstrating the mass-gravity duality mediated by the gauge symmetries of the Standard Model in quantum field theory.
 
